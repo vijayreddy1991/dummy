@@ -8,8 +8,8 @@ resources:
  - name: bitbucket
    type: GitRepo
    configuration:
-     gitProvider: s_bitbucketServer
-     path: PIP/automation/tests/core/yaml     
+     gitProvider: s_gitlab
+     path: vijayyreddy1991/dummy    
 
 
 pipelines:
