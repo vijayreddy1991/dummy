@@ -3,13 +3,7 @@ resources:
    type: GitRepo
    configuration:
      gitProvider: s_gitHub
-     path: vijayreddy1991/dummy
-     
- - name: bitbucket
-   type: GitRepo
-   configuration:
-     gitProvider: s_gitHub
-     path: vijayyreddy1991/dummy    
+     path: vijayreddy1991/dummy  
 
 
 pipelines:
@@ -27,8 +21,8 @@ pipelines:
             env2: value
           inputResources:
             - name: git
-          integrations:
-            - name: s_gitHub
+#           integrations:
+#             - name: s_gitHub
         execution:
           onExecute:
             - echo runStepConnections > cachefile.txt
