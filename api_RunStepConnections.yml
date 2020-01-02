@@ -8,7 +8,7 @@ resources:
  - name: bitbucket
    type: GitRepo
    configuration:
-     gitProvider: s_githubEnterprise
+     gitProvider: s_gitHub
      path: vijayyreddy1991/dummy    
 
 
