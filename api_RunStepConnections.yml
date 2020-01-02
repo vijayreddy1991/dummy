@@ -4,6 +4,12 @@ resources:
    configuration:
      gitProvider: s_gitHub
      path: vijayreddy1991/dummy
+     
+ - name: bitbucket
+   type: GitRepo
+   configuration:
+     gitProvider: s_bitbucketServer
+     path: PIP/automation/tests/core/yaml     
 
 
 pipelines:
