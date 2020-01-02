@@ -21,8 +21,8 @@ pipelines:
             env2: value
           inputResources:
             - name: git
-#           integrations:
-#             - name: s_gitHub
+          integrations:
+            - name: s_gitHub
         execution:
           onExecute:
             - echo runStepConnections > cachefile.txt
