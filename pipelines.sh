@@ -3,6 +3,3 @@ sudo apt-get update
 echo "hello"
 sudo docker 
 
-
-
-
