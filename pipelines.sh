@@ -1,4 +1,4 @@
 sudo apt-get install node
 sudo apt-get update
-echo "hello"
+echo "hello lauda"
 sudo docker 
