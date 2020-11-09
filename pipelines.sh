@@ -4,3 +4,4 @@ echo "hell0"
 sudo docker 
 sudo su
 
+sudo install
