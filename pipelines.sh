@@ -4,5 +4,5 @@ echo "hell0"
 sudo docker
 
 node --version
-echo "hello world"
+
 
