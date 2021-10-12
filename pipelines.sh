@@ -7,8 +7,3 @@ node --version
 node
 
 test
-
-
-
-
-
