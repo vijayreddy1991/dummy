@@ -5,7 +5,3 @@ sudo docker
 node --version
 
 node
-
-
-
-
