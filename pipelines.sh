@@ -5,7 +5,6 @@ sudo docker
 node --version
 node
 test
-
 testing
 new
 commit
