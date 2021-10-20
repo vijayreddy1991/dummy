@@ -8,6 +8,3 @@ test
 testing
 new
 commit
-
-
-
