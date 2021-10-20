@@ -7,7 +7,4 @@ node
 test
 testing
 new
-commit
-
-
-
+comm
