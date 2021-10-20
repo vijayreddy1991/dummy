@@ -7,4 +7,3 @@ node
 test
 testing
 new
-comm
