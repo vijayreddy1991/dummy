@@ -5,3 +5,4 @@ sudo docker
 node --version
 node
 tes
+new
