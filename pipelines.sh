@@ -5,6 +5,4 @@ sudo docker
 node --version
 node
 test
-new
-
-
+ne
