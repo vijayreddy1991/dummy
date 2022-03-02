@@ -4,6 +4,5 @@ echo "hell0"
 sudo docker
 node --version
 node
-test
 
 new
