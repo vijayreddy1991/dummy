@@ -7,5 +7,3 @@ node --version
 node
 new
 test
-
-
