@@ -6,7 +6,4 @@ node --version
 node
 new
 
-
-
-
 tes
